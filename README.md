@@ -2,7 +2,7 @@
 
 ## Software-Based Maternal Health Risk Prediction Using Machine Learning
 
-MaternaTrace AI is a software-based machine learning system that analyzes routinely collected maternal and pregnancy-related data to estimate **birth-weight risk categories
+MaternaTrace AI is a software-based machine learning system that analyzes routinely collected maternal and pregnancy-related data to estimate birth-weight risk categories
 
 The project explores how machine learning can support early identification of potentially concerning patterns using data that can be collected through routine healthcare interactions, without requiring additional hardware such as ultrasound devices, sensors, or wearables.
 
